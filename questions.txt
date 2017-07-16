@@ -1,0 +1,7 @@
+0. 3 - 9
+1. 2D array
+2. greet()
+3. void init(void);
+void draw(void);
+bool move(int tile);
+bool won(void);
