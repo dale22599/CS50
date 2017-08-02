@@ -1,0 +1,12 @@
+1.  Header that declares integer types with specific widths
+2.  For ints of particular number of bits, allows cross-platform
+3.  1, 4, 4, 2
+4.  Specify the file is a bitmap - 0x4D42
+5.  bf is size of entire file, bi is size of BITMAPINFOHEADER, both in bytes
+6.  The image is map from the top down
+7.  biBitCount
+8.  If it can't read the file
+9.  That is the number of files being read
+10. 3
+11. Move location the file is being read from
+12. In fseek to offset from current location of file pointer
